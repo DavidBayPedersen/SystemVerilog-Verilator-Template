@@ -14,6 +14,6 @@ The template is based on the preinstalled examples by Verilator.
 
 ## Run : 
 
-`cd build && make`
+`./templateexe`
 
 
